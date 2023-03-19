@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Chalk Groovy';
+    src: url('ChalkGroovyRegular.eot');
+    src: url('ChalkGroovyRegular.eot?#iefix') format('embedded-opentype'),
+        url('ChalkGroovyRegular.woff') format('woff'),
+        url('ChalkGroovyRegular.svg#ChalkGroovyRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
